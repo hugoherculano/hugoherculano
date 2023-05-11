@@ -1,16 +1,24 @@
-### Hi there 👋
+## Hugo Herculano
 
-<!--
-**hugoherculano/hugoherculano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🟢 Eu pessoal:
+- Músico por diversão;
+- Criatividade e bom humor, sempre;
+- Apaixonadaço por aprender e ensinar;
+- Luto contra o perfeccionismo;
 
-Here are some ideas to get you started:
+🟢 Eu profissional:
+- Há 7 anos no mundo da programação;
+- Startupeiro;
+- Instrutor de programação;
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Ferramentas que uso para solucionar problemas
+
+#### JavaScript, TypeScript, React (Next.js), Html, Css;
+#### Design Systems, Acessibilidade, UX/UI, Performance (muito importante), SEO;
+#### Testing: Unit tests and end-to-end tests;
+#### Cloud/Deployment: AWS, Netlify, Vercel;
+#### Git / GitHub;
+#### Node.js (REST APIs);
+#### Docker;
+#### Agile Methodology: Scrum;
+#### Database: MongoDB, PostgreSQL, MySQL, SQLite;
