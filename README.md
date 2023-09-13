@@ -1,20 +1,19 @@
-## Hugo Herculano
+## Hugo Herculano 🤘🏻
 
-🟢 Eu pessoal:
+💚 Eu pessoal:
 - Músico por diversão;
-- Criatividade e bom humor, sempre;
+- Criatividade e bom humor, sempre heheh;
 - Apaixonadaço por aprender e ensinar;
-- Luto contra o perfeccionismo;
 
-🟢 Eu profissional:
-- Há 7 anos no mundo da programação;
+💚 Eu profissional:
+- Há 9 anos no mundo da tech;
 - Startupeiro;
-- Instrutor de programação;
+- Educador;
 
 ## Ferramentas que uso para solucionar problemas
 
-JavaScript, TypeScript, React (Next.js), Html, Css; <br />
-Design Systems, Acessibilidade, UX/UI, Performance (muito importante), SEO; <br />
+JavaScript, TypeScript, React, Next.js, Html, Css; <br />
+Design Systems, UX/UI, Performance, SEO; <br />
 Testing: Unit tests and end-to-end tests; <br />
 Cloud/Deployment: AWS, Netlify, Vercel; <br />
 Git / GitHub; <br />
